@@ -1,1 +1,2 @@
 # Mobile-Price-Range-Prediction
+In the competitive mobile phone market companies want to understand sales of mobile phones and factors which drives the prices. The objective is to find out some relation between the features of a mobile phone(eg: RAM, Internal memory,etc) and its selling price. In this problem, we donot have to predict the actual price but a price range indicating how high the price is.
